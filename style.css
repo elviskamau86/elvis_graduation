@@ -1,0 +1,19 @@
+/* #0096c7 */
+
+/* Top bar stylings */
+    .top-bar h3{
+        color: #1572dd;
+        font-weight: 400;
+}
+    .top-bar a{
+        color: #808080;
+    }
+
+    .top-bar a:hover{
+        color: #1572dd;
+
+    }
+
+    
+
+
