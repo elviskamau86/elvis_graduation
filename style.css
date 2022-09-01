@@ -13,7 +13,16 @@
         color: #1572dd;
 
     }
+    /* slider images */
+    .main-slider img{
+        height: 70vh;
+    }
 
+    .main-slider .carousel-caption{
+        background: rgb(199,58,33);
+background: linear-gradient(90deg, rgba(199,58,33,0.5158438375350141) 13%, rgba(210,36,23,0.5830707282913166) 55%, rgba(255,72,0,1) 100%, rgba(221,13,13,0.5158438375350141) 100%, rgba(121,9,13,1) 100%);
+    }
+    /* slider images */
     
 
 
